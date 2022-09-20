@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mamazary
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning K8S and Go
+- 👀 I’m interested in DevOps Culture
+- 🌱 Continuously Growing
 - 📫 Read my articles at aripratama.com
 
 <!---
